@@ -16,3 +16,6 @@ Support my work Etherum Classic (ETC): 0x46566378a77EcEE2d4d263Cdb0DD07245031CED
 USDT: 0xA7Cb711124e1Be5cad35aABB5d8a29b6dfdfc594
 
 BTC: bc1q4n9rpldtg83dwmlpc80zgsdwd9xfj6dypztqsl
+
+
+Original work from @bitmaker_: https://github.com/BitMaker-hub/NerdMiner_v2
