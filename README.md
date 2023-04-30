@@ -7,7 +7,7 @@ The NerdMiner Rack Mount is rackable in a 19-inch cabinet and is equipped with 5
 
 Don't miss out on this incredible opportunity to join the Bitcoin mining revolution and potentially strike it rich with the NerdRigMiner. Order yours today and experience the future of lottery tickets!
 
-
+![alt text](https://github.com/ccadic/RackMinerESP32/blob/main/rackminer.jpg)
 
 
 
