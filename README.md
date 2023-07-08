@@ -1,6 +1,8 @@
 # RackMinerESP32
 This project is derived from the solo miner: NerdMinerV2 - It makes it rack compatible.
 
+You can order the PCB here https://www.tindie.com/products/electronictrik/rack-1u-nerdminer/
+
 Introducing the latest game-changer from @sulfuroid: The NerdMiner Rack mount with 5 miners, the 2.0 lottery ticket that mines Bitcoin solo! Say goodbye to shared mining and hello to your own personal jackpot.
 
 The NerdMiner Rack Mount is rackable in a 19-inch cabinet and is equipped with 5 TTGO T3-DISPLAY ESP32S3 dev boards, allowing you to increase your chances of winning big - up to 6.25 BTC at once! This revolutionary product is a derivative of the amazing #Netdminer project from @bitmain_, ensuring that you're getting nothing but the best.
